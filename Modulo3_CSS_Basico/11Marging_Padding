@@ -4,6 +4,7 @@ Margin (margem) - A propriedade margin do CSS define a área de margem nos quatr
 
 Padding (preenchimento) - A propriedade padding define uma a distância entre o conteúdo de um elemento e suas bordas. É um atalho que evita definir uma distância para cada lado separadamente (padding-top, padding-right, padding-bottom, padding-left).
 
+-------------------------
 
 ​Tanto o Margin, quanto o Padding aceitam o formato chamado ShortHand, onde você pode indicar mais de um valor na mesma linha.
 
