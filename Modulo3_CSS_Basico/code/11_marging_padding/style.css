@@ -1,0 +1,21 @@
+#container{
+    border: solid blue;
+}
+
+.delimitador{
+    color: white;
+    text-align: center;
+    background: red;
+    margin: 0px 10px;
+    padding: 5px;
+}
+
+#marging_padding{
+    color: white;
+    text-align: justify;
+    background: blue;
+
+    /*Aplicando Marging e Padding*/
+    margin: 10px;
+    padding: 5px;
+}
