@@ -1,1 +1,5 @@
 Border
+
+A propriedade CSS abreviada de borda define a borda de um elemento. Ele define os valores de largura da borda, estilo da borda e cor da borda (border-width, border-style e border-color).
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/border
